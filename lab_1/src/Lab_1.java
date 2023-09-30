@@ -1,4 +1,6 @@
-public class Main {
+//Написать программу, демонстрирующую методы для работы с объектами String
+
+public class Lab_1 {
     public static void main(String[] args) {
 
         System.out.printf("Hello and welcome!");
