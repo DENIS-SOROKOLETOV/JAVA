@@ -1,6 +1,5 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
-public class Main {
+public class Lab_3{
     public static void main(String[] args) {
 
         /* Выводит "Да", если введенное пользователем число отрицательное
